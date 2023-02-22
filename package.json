@@ -1,0 +1,16 @@
+{
+  "name": "robotjs",
+  "version": "1.0.0",
+  "description": "starting robot.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-cron": "^3.0.1",
+    "robotjs": "^0.6.0",
+    "uuid": "^8.3.2"
+  }
+}
